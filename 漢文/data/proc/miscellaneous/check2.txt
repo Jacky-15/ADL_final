@@ -1,0 +1,358 @@
+File: 20230712_1.txt
+  記者: 15
+  柯文哲: 15
+  alternating: True
+
+File: 20231120_1.txt
+  記者: 10
+  柯文哲: 10
+  alternating: True
+
+File: 20231112_1.txt
+  記者: 6
+  柯文哲: 6
+  alternating: True
+
+File: 20231113_1.txt
+  記者: 9
+  柯文哲: 9
+  alternating: True
+
+File: 20231111_1.txt
+  記者: 6
+  柯文哲: 6
+  alternating: True
+
+File: 20231104_1.txt
+  記者: 9
+  柯文哲: 9
+  alternating: True
+
+File: 20231029_1.txt
+  記者: 10
+  柯文哲: 10
+  alternating: True
+
+File: 20231014_1.txt
+  記者: 9
+  柯文哲: 9
+  alternating: True
+
+File: 20231022_1.txt
+  記者: 19
+  柯文哲: 19
+  alternating: True
+
+File: 20231018_1.txt
+  記者: 14
+  柯文哲: 14
+  alternating: True
+
+File: 20231007_1.txt
+  記者: 7
+  柯文哲: 7
+  alternating: True
+
+File: 20231004_1.txt
+  記者: 9
+  柯文哲: 9
+  alternating: True
+
+File: 20231002_1.txt
+  記者: 12
+  柯文哲: 12
+  alternating: True
+
+File: 20231001_1.txt
+  記者: 15
+  柯文哲: 15
+  alternating: True
+
+File: 20230817_1.txt
+  記者: 10
+  柯文哲: 10
+  alternating: True
+
+File: 20230822_1.txt
+  記者: 11
+  柯文哲: 11
+  alternating: True
+
+File: 20230823_1.txt
+  記者: 13
+  柯文哲: 13
+  alternating: True
+
+File: 20230824_1.txt
+  記者: 8
+  柯文哲: 8
+  alternating: True
+
+File: 20230826_1.txt
+  記者: 19
+  柯文哲: 19
+  alternating: True
+
+File: 20230814_1.txt
+  記者: 5
+  柯文哲: 5
+  alternating: True
+
+File: 20230819_1.txt
+  記者: 10
+  柯文哲: 10
+  alternating: True
+
+File: 20230814_2.txt
+  記者: 8
+  柯文哲: 8
+  alternating: True
+
+File: 20230804_1.txt
+  記者: 12
+  柯文哲: 12
+  alternating: True
+
+File: 20230805_1.txt
+  記者: 9
+  柯文哲: 9
+  alternating: True
+
+File: 20230801_1.txt
+  記者: 14
+  柯文哲: 14
+  alternating: True
+
+File: 20230729_1.txt
+  記者: 7
+  柯文哲: 7
+  alternating: True
+
+File: 20230728_1.txt
+  記者: 23
+  柯文哲: 23
+  alternating: True
+
+File: 20230724_1.txt
+  記者: 13
+  柯文哲: 13
+  alternating: True
+
+File: 20230720_1.txt
+  記者: 11
+  柯文哲: 11
+  alternating: True
+
+File: 20230718_1.txt
+  記者: 20
+  柯文哲: 20
+  alternating: True
+
+File: 20230715_1.txt
+  記者: 12
+  柯文哲: 12
+  alternating: True
+
+File: 20230602_1.txt
+  記者: 7
+  柯文哲: 7
+  alternating: True
+
+File: 20230705_1.txt
+  記者: 5
+  柯文哲: 5
+  alternating: True
+
+File: 20230704_1.txt
+  記者: 8
+  柯文哲: 8
+  alternating: True
+
+File: 20230630_1.txt
+  記者: 4
+  柯文哲: 4
+  alternating: True
+
+File: 20230702_1.txt
+  記者: 6
+  柯文哲: 6
+  alternating: True
+
+File: 20230701_1.txt
+  記者: 7
+  柯文哲: 7
+  alternating: True
+
+File: 20230629_1.txt
+  記者: 14
+  柯文哲: 14
+  alternating: True
+
+File: 20230628_1.txt
+  記者: 15
+  柯文哲: 15
+  alternating: True
+
+File: 20230627_1.txt
+  記者: 16
+  柯文哲: 16
+  alternating: True
+
+File: 20230626_1.txt
+  記者: 7
+  柯文哲: 7
+  alternating: True
+
+File: 20230611_1.txt
+  記者: 16
+  柯文哲: 16
+  alternating: True
+
+File: 20230521_1.txt
+  記者: 9
+  柯文哲: 9
+  alternating: True
+
+File: 20230520_1.txt
+  記者: 12
+  柯文哲: 12
+  alternating: True
+
+File: 20230606_1.txt
+  記者: 13
+  柯文哲: 13
+  alternating: True
+
+File: 20230609_1.txt
+  記者: 9
+  柯文哲: 9
+  alternating: True
+
+File: 20230523_1.txt
+  記者: 6
+  柯文哲: 6
+  alternating: True
+
+File: 20230504_1.txt
+  記者: 6
+  柯文哲: 6
+  alternating: True
+
+File: 20230510_1.txt
+  記者: 13
+  柯文哲: 13
+  alternating: True
+
+File: 20230604_1.txt
+  記者: 10
+  柯文哲: 10
+  alternating: True
+
+File: 20230531_1.txt
+  記者: 3
+  柯文哲: 3
+  alternating: True
+
+File: 20230514_1.txt
+  記者: 15
+  柯文哲: 15
+  alternating: True
+
+File: 20230524_1.txt
+  記者: 4
+  柯文哲: 4
+  alternating: True
+
+File: 20230604_2.txt
+  記者: 12
+  柯文哲: 12
+  alternating: True
+
+File: 20230419_1.txt
+  記者: 12
+  柯文哲: 12
+  alternating: True
+
+File: 20230526_1.txt
+  記者: 5
+  柯文哲: 5
+  alternating: True
+
+File: 20230531_2.txt
+  記者: 35
+  柯文哲: 35
+  alternating: True
+
+File: 20230526_2.txt
+  記者: 11
+  柯文哲: 11
+  alternating: True
+
+File: 20230606_2.txt
+  記者: 12
+  柯文哲: 12
+  alternating: True
+
+File: 20230503_1.txt
+  記者: 6
+  柯文哲: 6
+  alternating: True
+
+File: 20230516_1.txt
+  記者: 6
+  柯文哲: 6
+  alternating: True
+
+File: 20230608_1.txt
+  記者: 13
+  柯文哲: 13
+  alternating: True
+
+File: 20230624_1.txt
+  記者: 10
+  柯文哲: 10
+  alternating: True
+
+File: 20230512_1.txt
+  記者: 10
+  柯文哲: 10
+  alternating: True
+
+File: 20230607_1.txt
+  記者: 14
+  柯文哲: 14
+  alternating: True
+
+File: 20230419_2.txt
+  記者: 11
+  柯文哲: 11
+  alternating: True
+
+File: 20230616_1.txt
+  記者: 17
+  柯文哲: 17
+  alternating: True
+
+File: 20230617_1.txt
+  記者: 13
+  柯文哲: 13
+  alternating: True
+
+File: 20230620_1.txt
+  記者: 13
+  柯文哲: 13
+  alternating: True
+
+File: 20230402_1.txt
+  對啊。: 15
+  不是。: 2
+  對。: 10
+  好。: 2
+  柯文哲。: 9
+  最好的選擇。: 2
+  柯文哲: 2
+  最好的選擇: 3
+  團結台灣。: 2
+  沒有。: 2
+  alternating: False
+
