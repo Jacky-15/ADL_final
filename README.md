@@ -22,7 +22,7 @@ Final Project for ADL
 ├── finetune
 ├── embedding.py
 ├── inference.py
-└── speech.ipynb
+└── speech_dataset.ipynb
 ```
 ## File Discription
 - Folder `Taiwan-LLM-7B-v2.0-chat` is used to put Taiwan-LLama model.
@@ -39,7 +39,7 @@ Final Project for ADL
 - chat_rag.py is used to construct a demo web.
 - embedding.py is used to create a vector database using data in `./data/preprocessed/speech`.
 - inference.py is used to create prediction data set used to rouge rating.
-- speech.ipynb is used to preprocess data in `./data/speech`, the preprocessed data would be place in `./data/preprocessed/speech`
+- speech_dataset.ipynb is used to preprocess data in `./data/raw_data/speech`, the preprocessed data would be place in `./data/preprocessed/speech`
 
 ## Preprocessing
 We convert the raw data of Ko Wen-je speeches and conversations with reporters into input data for the training of the QA model, which will be further processed and then used to finetune the QA model .
@@ -62,7 +62,7 @@ We convert the raw data of Ko Wen-je speeches and conversations with reporters i
    ``` shell
    sudo bash ./download.sh
    ```
-   The model will locate in  `./adapter_model_v1` and `./adapter_model_v2`
+   The model will locate in  `./Adapter_model/adapter_model_v1` and `./Adapter_model/adapter_model_v2`
 2. Test the model by:
    ``` shell
    sudo bash ./finetune/run.sh /path/to/Taiwan-Llama /path/to/adapter_checkpoint/under/your/folder /path/to/input /path/to/output
@@ -70,6 +70,6 @@ We convert the raw data of Ko Wen-je speeches and conversations with reporters i
    It will produce a prediction file in /path/to/output
 
 ## Project execution procedure 
-1. Run speech.ipynb.
+1. Run speech_dataset.ipynb.
 2. Run embedding.py. Use `python embedding.py`.
 3. Run chat_rag.py to interact with the robot. Use `streamlit run chat_rag.py`.
