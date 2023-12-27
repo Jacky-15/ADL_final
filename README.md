@@ -5,8 +5,7 @@ Final Project for ADL
 ```shell
 .
 ├── Taiwan-LLM-7B-v2.0-chat
-├── adapter_model_v1
-├── adapter_model_v2
+├── Adapter_model
 ├── chat_rag.py
 ├── data
 │   ├── raw_data
@@ -27,7 +26,7 @@ Final Project for ADL
 ```
 ## File Discription
 - Folder `Taiwan-LLM-7B-v2.0-chat` is used to put Taiwan-LLama model.
-- Folder `adapter_model_v1` and `adapter_model_v2` are used to put weights that we fine tune Taiwan-LLama model by qLora.
+- Folder `Adapter_model` are used to put weights that we fine tune Taiwan-LLama model by qLora.
 - Folder `data` is used to put all data we used.
   - Folder `raw_data` is used to put raw data we obtain from <https://hackmd.io/@johnshao>.
   - Folder `preprocessed` is used to put preprocessed data.
